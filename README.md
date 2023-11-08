@@ -4,7 +4,12 @@
 Certains promoteurs de projet tentent de comprendre comment augmenter le taux de réussite de leurs futures campagnes. Ils ont à leur disposition des données historiques de campagnes annoncées sur la plateforme Kickstarter.
 # Objectif
 Développe en Python une approche ML (supervisée et/ou non supervisée) pour aider les promoteurs de projet à lancer des campagnes à fort potentiel de réussite.
-Question
+# Hypothèses
+
+Toutes mes notes et mes hypothèses que j'ai fixées sont écrites dans les cellules de jupyter notebook.
+Avant de commencer la résolution d'une tâche dans le processus de création de la méthode d'apprentissage machine, j'essaye de noter toute interprétation, conclusion, hypothèses, explication dans des cellules de jupyter notebook.
+
+
 # Structure du projet
 
 La structure du projet est la suivante:
